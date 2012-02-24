@@ -4,7 +4,14 @@
         <h1>Lloc <small>com arribar al lloc del curs</small></h1>
       </div>
       <div class="span3 columns">
-        <p>Al Campus Nord de la UPC, a la sala E101 del mòdul C6. Vegeu el mapa.</p>
+        <p>
+          Al Campus Nord de la <a title="Universitat Politècnica de Catalunya" href="http://www.upc.edu/">UPC</a>,
+          a la sala E101 del mòdul C6. Vegeu el mapa.</p>
+        <p>
+          Volem agrair al
+          <a title="Departament d'Arquitectura de Computadors (UPC)" href="http://www.ac.upc.edu/">Departament d'Arquitectura de Computadors</a>
+          que ens permeti l'ús de les instal·lacions.
+        </p>
       </div>
       <div class="span9 columns">
         <iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;t=k&amp;msa=0&amp;msid=215481910282089122419.00045eb5eb49975fe4320&amp;source=embed&amp;ll=41.389511,2.112755&amp;spn=0.003864,0.006866&amp;output=embed"></iframe>

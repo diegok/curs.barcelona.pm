@@ -36,13 +36,6 @@
     <div class="container">
       <%= content %> 
       <footer class="footer">
-        <p>
-          Volem agrair la col·laboració del
-          <a title="Departament d'Arquitectura de Computadors (UPC)" href="http://www.ac.upc.edu/">Departament d'Arquitectura de Computadors</a> 
-	  de la
-	  <a title="Universitat Politècnica de Catalunya" href="http://www.upc.edu/">UPC</a>
-          per permete l'ús de les instal·lacions.
-        </p>
 	<p><em>Built with <a href="http://twitter.github.com/bootstrap/index.html">Bootstrap</a>, <a href="http://mojolicio.us">Mojolicious</a> and love by just another Perl hackers from <a href="http://barcelona.pm/">Barcelona.pm</a>.</em></p>
       </footer>
     <%= javascript 'http://cdnjs.cloudflare.com/ajax/libs/jquery/1.7.1/jquery.min.js' %>
