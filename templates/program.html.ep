@@ -4,55 +4,126 @@
         <h1>Temari <small>del curs</small></h1>
       </div>
       <div class="span3 columns">
-        <p>TODO: descibe course. Why did we've chosen this subjects.</p>
+        <p>Amb aquest temari pretenem oferir un curs pràctic que permeti treballar els conceptes avançats que s'explicaran durant el curs en una tecnologia omnipresent com el Web.</p>
+        <p>Sabem que hi ha vida més enllà del Web, però hem preferit no sobrecarregar el curs i enfocar-lo a un camp concret, que per a propers cursos podrà ser un de diferent.</p>
       </div>
       <div class="span9 columns">
         <div class="accordion" id="desc-temari">
           <div class="accordion-group">
             <div class="accordion-heading">
+              <a class="accordion-toggle" data-toggle="collapse" data-parent="#desc-temari" href="#welcome">
+                09:00 &mdash; Benvinguda
+              </a>
+            </div>
+            <div id="welcome" class="accordion-body collapse" style="height: 0px; ">
+              <div class="accordion-inner">
+                <p>TBD</p>
+              </div>
+            </div>
+          </div>
+          <div class="accordion-group">
+            <div class="accordion-heading">
               <a class="accordion-toggle" data-toggle="collapse" data-parent="#desc-temari" href="#toolchain">
-               Perl Toolchain
+                09:30 &mdash; <strong>Instal·lació, eines i mòduls de Perl</strong>
               </a>
             </div>
             <div id="toolchain" class="accordion-body collapse" style="height: 0px; ">
               <div class="accordion-inner">
-                <p>TODO!</p>
+                <p>TBD</p>
+              </div>
+            </div>
+          </div>
+          <div class="accordion-group">
+            <div class="accordion-heading">
+              <a class="accordion-toggle" data-toggle="collapse" data-parent="#desc-temari" href="#morning-break">
+                11:30 &mdash; <em>Pausa</em>
+              </a>
+            </div>
+            <div id="morning-break" class="accordion-body collapse" style="height: 0px; ">
+              <div class="accordion-inner">
+                <p>Cafè i donuts!</p>
               </div>
             </div>
           </div>
           <div class="accordion-group">
             <div class="accordion-heading">
               <a class="accordion-toggle" data-toggle="collapse" data-parent="#desc-temari" href="#objects">
-                OOP => Moose
+                12:00 &mdash; <strong>Orientació a objectes: Moose</strong>
               </a>
             </div>
             <div id="objects" class="accordion-body collapse">
               <div class="accordion-inner">
-                <p>TODO!</p>
+                <p>TBD</p>
+              </div>
+            </div>
+          </div>
+          <div class="accordion-group">
+            <div class="accordion-heading">
+              <a class="accordion-toggle" data-toggle="collapse" data-parent="#desc-temari" href="#lunch">
+                14:00 &mdash; <em>Dinar</em>
+              </a>
+            </div>
+            <div id="lunch" class="accordion-body collapse" style="height: 0px; ">
+              <div class="accordion-inner">
+                <p>El dinar va inclós amb el preu del curs i ens el proporciona <a href="http://www.sodexo.com">Sodexo</a>:
+                  <ul>
+                    <li>Mini croissant de biquini</li>
+                    <li>Triquini de pollastre amb cheddar i ceba caramel·litzada</li>
+                    <li>Mini coca d'escalivada</li>
+                    <li>Mini quiche lorraine</li>
+                    <li>Carpaccio de vedella amb parmesà</li>
+                    <li>Pa d'olives amb llonganissa</li>
+                    <li>Delícies de <em>brownie</em> amb xocolata</li>
+                  </ul>
+                </p>
               </div>
             </div>
           </div>
           <div class="accordion-group">
             <div class="accordion-heading">
               <a class="accordion-toggle" data-toggle="collapse" data-parent="#desc-temari" href="#modules">
-                use CPAN modules
+                15:30 &mdash; <strong>Bases de dades: DBI, DBIx::Class</strong>
               </a>
             </div>
             <div id="modules" class="accordion-body collapse">
               <div class="accordion-inner">
-                <p>TODO!</p>
+                <p>TBD</p>
+              </div>
+            </div>
+          </div>
+          <div class="accordion-group">
+            <div class="accordion-heading">
+              <a class="accordion-toggle" data-toggle="collapse" data-parent="#desc-temari" href="#afternoon-break">
+                17:00 &mdash; <em>Pausa</em>
+              </a>
+            </div>
+            <div id="afternoon-break" class="accordion-body collapse" style="height: 0px; ">
+              <div class="accordion-inner">
+                <p>Cafè</p>
               </div>
             </div>
           </div>
           <div class="accordion-group">
             <div class="accordion-heading">
               <a class="accordion-toggle" data-toggle="collapse" data-parent="#desc-temari" href="#frameworks">
-                use CPAN frameworks 
+                17:30 &mdash; <strong>Frameworks Web: Catalyst, Mojolicious</strong>
               </a>
             </div>
             <div id="frameworks" class="accordion-body collapse">
               <div class="accordion-inner">
-                <p>TODO!</p>
+                <p>TBD</p>
+              </div>
+            </div>
+          </div>
+          <div class="accordion-group">
+            <div class="accordion-heading">
+              <a class="accordion-toggle" data-toggle="collapse" data-parent="#desc-temari" href="#goodbye">
+                19:00 &mdash; Comiat
+              </a>
+            </div>
+            <div id="goodbye" class="accordion-body collapse" style="height: 0px; ">
+              <div class="accordion-inner">
+                <p>TBD</p>
               </div>
             </div>
           </div>
