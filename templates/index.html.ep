@@ -9,9 +9,8 @@
   </div>
 </header>
 <div class="container">
-  <%= include 'signup' %>
-  <%# include 'when' %>
   <%= include 'program' %>
+  <%= include 'signup' %>
   <%= include 'where' %>
-  <%= include 'thanks' %>
+  <%# include 'thanks' %>
 </div>

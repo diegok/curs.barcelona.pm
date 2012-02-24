@@ -23,12 +23,11 @@
           <a class="brand" title="Barcelona.pm" href="http://barcelona.pm/">Barcelona Perl Mongers</a>
           <div class="nav-collapse collapse" style="height: 0px; ">
             <ul class="nav pull-right">
-              <li><a href="#what">Inici</a></li>
-              <li><a href="#signup">Inscripcions</a></li>
+              <li><a href="#">Inici</a></li>
               <li><a href="#program">Programa</a></li>
-	      <!--<li><a href="#when">Quan</a></li>-->
+              <li><a href="#signup">Inscripcions</a></li>
               <li><a href="#where">Lloc</a></li>
-              <li><a href="#thanks">Agraïments</a></li>
+	      <!--<li><a href="#thanks">Agraïments</a></li>-->
             </ul>
           </div>
         </div>
@@ -37,14 +36,14 @@
     <div class="container">
       <%= content %> 
       <footer class="footer">
-      <!--
         <p>
-            Volem agraïr la col·laboració en aquest curs a la 
-            <a title="Universitat Politècnica de Catalunya" href="http://www.upc.edu">Universitat Politècnica de Catalunya</a> 
-            per les instal·lacions i a <a title="Sodexo" href="http://www.sodexo.com" target="_blank">Sodexo</a> per encarregar-se del càtering.
+          Volem agrair la col·laboració del
+          <a title="Departament d'Arquitectura de Computadors (UPC)" href="http://www.ac.upc.edu/">Departament d'Arquitectura de Computadors</a> 
+	  de la
+	  <a title="Universitat Politècnica de Catalunya" href="http://www.upc.edu/">UPC</a>
+          per permete l'ús de les instal·lacions.
         </p>
-	-->
-        <p>Built with <a href="http://twitter.github.com/bootstrap/index.html">Bootstrap</a>, <a href="http://mojolicio.us">Mojolicious</a> and love by just another Perl hackers from <a href="http://barcelona.pm/">Barcelona.pm</a>.</p>
+	<p><em>Built with <a href="http://twitter.github.com/bootstrap/index.html">Bootstrap</a>, <a href="http://mojolicio.us">Mojolicious</a> and love by just another Perl hackers from <a href="http://barcelona.pm/">Barcelona.pm</a>.</em></p>
       </footer>
     <%= javascript 'http://cdnjs.cloudflare.com/ajax/libs/jquery/1.7.1/jquery.min.js' %>
     <%= javascript '/bootstrap/js/bootstrap.min.js' %>
