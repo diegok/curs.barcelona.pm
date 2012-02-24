@@ -1,12 +1,11 @@
 <header class="biginfo" id="what">
   <div class="inner">
+    <h1>Curs avançat de Perl</h1>
+    <p>Els Perl Mongers de Barcelona organitzem un curs el <strong>10 de març</strong> per a gent que ja sàpiga programar en Perl i vulgui aprendre conceptes avançats per treure'n el màxim profit.</p>
     <div class="pull-right">
-<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://curs.barcelona.pm" data-text="M'he apuntat al curs avançat de Perl organitzat per barcelona.pm el 10 de març al Campus Nord de la UPC" data-related="barcelonapm" data-hashtags="cursperl">Tweet</a>
+<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://curs.perl.cat" data-text="Apunteu-vos al curs avançat de Perl organitzat per Barcelona.pm el 10 de març al Campus Nord de la UPC" data-related="barcelonapm" data-hashtags="cursperl">Tweet</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
     </div>
-    <h1>Curs avançat de Perl</h1>
-    <h2>10 de març de 2012</h2>
-    <p>Els Perl Mongers de Barcelona organitzem un curs per a gent que ja sàpiga programar en Perl i vulgui aprendre conceptes avançats per treure'n el màxim profit.</p>
   </div>
 </header>
 <div class="container">
