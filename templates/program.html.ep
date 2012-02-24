@@ -1,0 +1,62 @@
+  <section id="program">
+    <div class="row">
+      <div class="page-header">
+        <h1>Temari <small>del curs</small></h1>
+      </div>
+      <div class="span3 columns">
+        <p>TODO: descibe course. Why did we've chosen this subjects.</p>
+      </div>
+      <div class="span9 columns">
+        <div class="accordion" id="desc-temari">
+          <div class="accordion-group">
+            <div class="accordion-heading">
+              <a class="accordion-toggle" data-toggle="collapse" data-parent="#desc-temari" href="#toolchain">
+               Perl Toolchain
+              </a>
+            </div>
+            <div id="toolchain" class="accordion-body collapse" style="height: 0px; ">
+              <div class="accordion-inner">
+                <p>TODO!</p>
+              </div>
+            </div>
+          </div>
+          <div class="accordion-group">
+            <div class="accordion-heading">
+              <a class="accordion-toggle" data-toggle="collapse" data-parent="#desc-temari" href="#objects">
+                OOP => Moose
+              </a>
+            </div>
+            <div id="objects" class="accordion-body collapse">
+              <div class="accordion-inner">
+                <p>TODO!</p>
+              </div>
+            </div>
+          </div>
+          <div class="accordion-group">
+            <div class="accordion-heading">
+              <a class="accordion-toggle" data-toggle="collapse" data-parent="#desc-temari" href="#modules">
+                use CPAN modules
+              </a>
+            </div>
+            <div id="modules" class="accordion-body collapse">
+              <div class="accordion-inner">
+                <p>TODO!</p>
+              </div>
+            </div>
+          </div>
+          <div class="accordion-group">
+            <div class="accordion-heading">
+              <a class="accordion-toggle" data-toggle="collapse" data-parent="#desc-temari" href="#frameworks">
+                use CPAN frameworks 
+              </a>
+            </div>
+            <div id="frameworks" class="accordion-body collapse">
+              <div class="accordion-inner">
+                <p>TODO!</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>

@@ -1,0 +1,18 @@
+<header class="biginfo" id="what">
+  <div class="inner">
+    <div class="pull-right">
+<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://curs.barcelona.pm" data-text="M'he apuntat al curs avançat de Perl organitzat per barcelona.pm el 10 de març al Campus Nord de la UPC" data-related="barcelonapm" data-hashtags="cursperl">Tweet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+    </div>
+    <h1>Curs avançat de Perl</h1>
+    <p>Els Perl Mongers de Barcelona organitzem un curs per a gent que ja sàpiga programar en Perl i vulgui aprendre tècniques avançades i llibreries per treure'n el màxim profit.</p>
+    <p><a href="#signup" class="btn btn-large">Apuntar-me al curs</a></p>
+  </div>
+</header>
+<div class="container">
+  <%= include 'program' %>
+  <%= include 'when' %>
+  <%= include 'where' %>
+  <%= include 'signup' %>
+  <%# include 'thanks' %>
+</div>
