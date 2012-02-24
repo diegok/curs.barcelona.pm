@@ -1,10 +1,10 @@
   <section id="program">
     <div class="row">
       <div class="page-header">
-        <h1>Temari <small>del curs</small></h1>
+        <h1>Programa <small>del curs</small></h1>
       </div>
       <div class="span3 columns">
-        <p>Amb aquest temari pretenem oferir un curs pràctic que permeti treballar els conceptes avançats que s'explicaran durant el curs en una tecnologia omnipresent com el Web.</p>
+        <p>Amb aquest programa pretenem oferir un curs pràctic que permeti treballar els conceptes avançats que s'explicaran durant el curs en una tecnologia omnipresent com el Web.</p>
         <p>Sabem que hi ha vida més enllà del Web, però hem preferit no sobrecarregar el curs i enfocar-lo a un camp concret, que per a propers cursos podrà ser un de diferent.</p>
       </div>
       <div class="span9 columns">
