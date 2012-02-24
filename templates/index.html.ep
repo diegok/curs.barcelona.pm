@@ -5,14 +5,14 @@
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
     </div>
     <h1>Curs avançat de Perl</h1>
+    <h2>10 de març de 2012</h2>
     <p>Els Perl Mongers de Barcelona organitzem un curs per a gent que ja sàpiga programar en Perl i vulgui aprendre conceptes avançats per treure'n el màxim profit.</p>
-    <p><a href="#signup" class="btn btn-large">Apunta'm al curs</a></p>
   </div>
 </header>
 <div class="container">
-  <%= include 'program' %>
-  <%= include 'when' %>
-  <%= include 'where' %>
   <%= include 'signup' %>
-  <%# include 'thanks' %>
+  <%# include 'when' %>
+  <%= include 'program' %>
+  <%= include 'where' %>
+  <%= include 'thanks' %>
 </div>
