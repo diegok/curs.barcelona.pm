@@ -12,5 +12,6 @@
   <%= include 'program' %>
   <%= include 'signup' %>
   <%= include 'where' %>
+  <%= include 'contact' %>
   <%# include 'thanks' %>
 </div>
